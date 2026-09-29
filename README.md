@@ -72,13 +72,3 @@ A squad-management web app where transfer and lineup decisions are tested by an 
 Clinic queues, early departures, and workload statistics in logarithmic time, built on four coordinated 2-3 tree indexes. Team project.
 - **Stack:** Java, augmented 2-3 trees, subtree aggregates
 - **Result:** 34,450/34,450 random operations passed in official grading, graded 100/100
-
-## GitHub Stats
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jzada-ds&theme=github_dark)
-![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jzada-ds&theme=github_dark)
-
-## Current Focus
-- Machine learning and predictive modeling
-- Data analysis and statistical inference
-- SQL and database systems
-- Looking for a student data role, available up to three working days per week
